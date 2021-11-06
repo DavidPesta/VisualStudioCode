@@ -47,13 +47,30 @@
 	
 	},
 	"go.buildOnSave": "off",
-	"workbench.editorAssociations": [
-		{
-			"viewType": "jupyter.notebook.ipynb",
-			"filenamePattern": "*.ipynb"
-		}
-	],
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter-notebook"
+	},
 	"[plaintext]": {
 		"editor.wordWrap": "on"
 	},
+	"notebook.cellToolbarLocation": {
+		"default": "right",
+		"jupyter-notebook": "left"
+	},
+	"[python]": {
+		"editor.insertSpaces": true
+	},
+	//"editor.acceptSuggestionOnCommitCharacter": false,
+	//"editor.acceptSuggestionOnEnter": "off",
+	//"editor.hover.enabled": false,
+	//"editor.minimap.enabled": false,
+	//"editor.parameterHints.enabled": false,
+	//"editor.quickSuggestions": false,
+	//"editor.quickSuggestionsDelay": 10,
+	//"editor.suggest.snippetsPreventQuickSuggestions": false,
+	//"editor.suggestOnTriggerCharacters": false,
+	//"editor.wordBasedSuggestions": false,
+	"workbench.iconTheme": "vscode-icons",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 }

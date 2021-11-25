@@ -57,9 +57,9 @@
 		"default": "right",
 		"jupyter-notebook": "left"
 	},
-	"[python]": {
-		"editor.insertSpaces": true
-	},
+	//"[python]": {
+	//	"editor.insertSpaces": true
+	//},
 	//"editor.acceptSuggestionOnCommitCharacter": false,
 	//"editor.acceptSuggestionOnEnter": "off",
 	//"editor.hover.enabled": false,

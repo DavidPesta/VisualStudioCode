@@ -1,5 +1,4 @@
 {
-	"window.zoomLevel": 0,
 	"explorer.confirmDelete": false,
 	"window.menuBarVisibility": "toggle",
 	"workbench.activityBar.visible": true,
@@ -73,4 +72,6 @@
 	"workbench.iconTheme": "vscode-icons",
 	"editor.suggestSelection": "first",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"editor.codeLens": false,
+	"editor.hover.delay": 1250
 }

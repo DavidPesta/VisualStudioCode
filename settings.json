@@ -76,6 +76,7 @@
 	"editor.codeLens": false,
 	"editor.hover.delay": 1250,
 	"deno.enable": true,
+	"deno.unstable": true,
 	"deno.lint": true,
 	"deno.codeLens.implementations": true,
 	"deno.codeLens.references": true,
